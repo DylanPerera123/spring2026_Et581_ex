@@ -1,0 +1,5 @@
+101,Apple iPhone,999.99,10
+102,Dell Laptop,1200.50,5
+103,Sony Headphones,199.99,20
+104,Samsung Galaxy,899.99,15
+105,HP Laptop,1100.00,8
